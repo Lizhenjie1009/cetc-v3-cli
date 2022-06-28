@@ -1,0 +1,1 @@
+import{ac as a,ad as o,a4 as r,a5 as t,a6 as c,a8 as n}from"./index.3bb7117f.js";const s={},_=n("h1",null,"three",-1);function l(d,i){const e=o("router-view");return r(),t("div",null,[_,c(e)])}var f=a(s,[["render",l]]);export{f as default};
